@@ -1,6 +1,10 @@
 h1{
+<<<<<<< HEAD
   color:blue;
   font-family: sans-serif;
   font-size: 3em;
 
+=======
+  color: purple;
+>>>>>>> d248826b2aaeac1158193c4473ed8d2d42f19689
 }
