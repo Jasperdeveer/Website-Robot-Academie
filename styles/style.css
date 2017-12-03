@@ -1,5 +1,44 @@
+<<<<<<< HEAD
 h2{
   color:blue;
   font-family: sans-serif;
   font-size: 3em;
+=======
+h1{
+
+}
+
+.card-bold{
+  font-weight: bold;
+  padding-right: 5px;
+}
+
+.werkgever{
+  background-color: #339999;
+}
+.werknemer{
+  background-color: #f08039;
+}
+.robot{
+  background-color: #B6CEDE
+}
+.cat-text h2, .cat-text p{
+  text-align: center;
+  color: White;
+}
+/*.cat-text{
+  margin-bottom: 20px;
+}*/
+.center{
+  display: block;
+  margin: auto;
+  width: 250px
+}
+.cat-img{
+  padding:20px 0px;
+}
+
+.btn{
+  margin-bottom: 20px;
+>>>>>>> 20a2f04d4b5608d5ecebde04af99c320efc9db2e
 }
